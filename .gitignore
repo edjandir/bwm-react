@@ -22,3 +22,9 @@ yarn-error.log*
 
 # Ignore all the css files
 /src/**/*.css
+
+#System files
+.DS_Store
+Thumbs.db
+
+/server/config/dev.js
